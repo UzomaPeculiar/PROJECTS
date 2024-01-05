@@ -1,1 +1,1 @@
-The project aimed to analyze a comprehensive dataset containing crucial information about the top YouTube streamers. The dataset included key metrics such as ranking, categories, subscribers, country, visits, likes, comments, and more. The analysis was conducted using Python and Jupyter Notebook, employing various data exploration, trend analysis, audience study, performance metrics, content categories, brands and collaborations, benchmarking, and content recommendations.
+
